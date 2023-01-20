@@ -2,8 +2,8 @@
 
 <div align = "center">
   <h3>🌸 Kaeun Lee 🌸</h3>
-  <a href="https://velog.io/@rlotr02">
-    <img src="https://img.shields.io/badge/Velog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@rlotr02"/>
+  <a href="https://rlotr.tistory.com">
+    <img src="https://img.shields.io/badge/Tistory-333333?style=flat-square&logo=Tistory&logoColor=white&link=https://rlotr.tistory.com"/>
   </a>
   <a href="https://www.instagram.com/rlotr.dev">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/rlotr.dev"/>
