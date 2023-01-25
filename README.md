@@ -3,7 +3,7 @@
 <div align = "center">
   <h3>🌸 Kaeun Lee 🌸</h3>
   <a href="https://rlotr.tistory.com">
-    <img src="https://img.shields.io/badge/Tistory-e47940?style=flat-square&logo=Tistory&logoColor=white&link=https://rlotr.tistory.com"/>
+    <img src="https://img.shields.io/badge/Tistory-F08080?style=flat-square&logo=Tistory&logoColor=white&link=https://rlotr.tistory.com"/>
   </a>
   <a href="https://www.instagram.com/rlotr.dev">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/rlotr.dev"/>
