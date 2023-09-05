@@ -14,7 +14,6 @@
   
   <br/>
   <br/>
-  <br/>
   
   <h3>🛠 Tech Stack 🛠</h3>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
@@ -29,6 +28,28 @@
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
+  
+  <br/>
+  <br/>
+  
+  <h3>💻 Project 💻</h3>
+  <a href="https://pooptest.netlify.app">
+    <img src="https://img.shields.io/badge/똥BTI-ad8b78?style=flat-square&logo=githubsponsors&logoColor=white&link=https://pooptest.netlify.app"/>
+  </a>
+  <a href="https://balabalancegame.netlify.app">
+    <img src="https://img.shields.io/badge/밸러밸런스 게임-69B18E?style=flat-square&logo=githubsponsors&logoColor=white&link=https://balabalancegame.netlify.app"/>
+  </a>
+  <a href="https://today-eat.netlify.app">
+    <img src="https://img.shields.io/badge/오늘 뭐 먹지-b5a986?style=flat-square&logo=githubsponsors&logoColor=white&link=https://today-eat.netlify.app"/>
+  </a>
+  <br/>
+  <a href="https://baldheadgame.netlify.app">
+    <img src="https://img.shields.io/badge/대머리를 조심해!-d99191?style=flat-square&logo=githubsponsors&logoColor=white&link=https://baldheadgame.netlify.app"/>
+  </a>
+  <a href="https://avoidpoopgame.netlify.app">
+    <img src="https://img.shields.io/badge/똥 피하기 게임-7aa5cf?style=flat-square&logo=githubsponsors&logoColor=white&link=https://avoidpoopgame.netlify.app"/>
+  </a>
+
   <br/>
   <br/>
 </div>
