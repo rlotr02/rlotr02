@@ -34,20 +34,20 @@
   
   <h3>💻 Project 💻</h3>
   <a href="https://pooptest.netlify.app">
-    <img src="https://img.shields.io/badge/똥BTI-ad8b78?style=flat-square&logo=githubsponsors&logoColor=white&link=https://pooptest.netlify.app"/>
+    <img src="https://img.shields.io/badge/똥BTI-b85d2a?style=flat-square&logo=githubsponsors&logoColor=white&link=https://pooptest.netlify.app"/>
   </a>
   <a href="https://balabalancegame.netlify.app">
-    <img src="https://img.shields.io/badge/밸러밸런스 게임-69B18E?style=flat-square&logo=githubsponsors&logoColor=white&link=https://balabalancegame.netlify.app"/>
+    <img src="https://img.shields.io/badge/밸러밸런스 게임-1fa664?style=flat-square&logo=githubsponsors&logoColor=white&link=https://balabalancegame.netlify.app"/>
   </a>
   <a href="https://today-eat.netlify.app">
-    <img src="https://img.shields.io/badge/오늘 뭐 먹지-b5a986?style=flat-square&logo=githubsponsors&logoColor=white&link=https://today-eat.netlify.app"/>
+    <img src="https://img.shields.io/badge/오늘 뭐 먹지-d9aa23?style=flat-square&logo=githubsponsors&logoColor=white&link=https://today-eat.netlify.app"/>
   </a>
   <br/>
   <a href="https://baldheadgame.netlify.app">
-    <img src="https://img.shields.io/badge/대머리를 조심해!-d99191?style=flat-square&logo=githubsponsors&logoColor=white&link=https://baldheadgame.netlify.app"/>
+    <img src="https://img.shields.io/badge/대머리를 조심해!-d15858?style=flat-square&logo=githubsponsors&logoColor=white&link=https://baldheadgame.netlify.app"/>
   </a>
   <a href="https://avoidpoopgame.netlify.app">
-    <img src="https://img.shields.io/badge/똥 피하기 게임-7aa5cf?style=flat-square&logo=githubsponsors&logoColor=white&link=https://avoidpoopgame.netlify.app"/>
+    <img src="https://img.shields.io/badge/똥 피하기 게임-4b88c4?style=flat-square&logo=githubsponsors&logoColor=white&link=https://avoidpoopgame.netlify.app"/>
   </a>
 
   <br/>
