@@ -49,6 +49,13 @@
   <a href="https://avoidpoopgame.netlify.app">
     <img src="https://img.shields.io/badge/똥 피하기 게임-4b88c4?style=flat-square&logo=githubsponsors&logoColor=white&link=https://avoidpoopgame.netlify.app"/>
   </a>
+   <br/>
+  <a href="https://lets-doogi-test.netlify.app">
+    <img src="https://img.shields.io/badge/두기가되-6978AC?style=flat-square&logo=githubsponsors&logoColor=white&link=https://lets-doogi-test.netlify.app"/>
+  </a>
+  <a href="https://depth-saecomdalcom-test.netlify.app">
+    <img src="https://img.shields.io/badge/뎁콤달콤 테스트-cc4341?style=flat-square&logo=githubsponsors&logoColor=white&link=https://depth-saecomdalcom-test.netlify.app"/>
+  </a>
 
   <br/>
   <br/>
