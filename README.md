@@ -8,8 +8,8 @@
   <a href="https://www.instagram.com/rlotr.dev">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/rlotr.dev"/>
   </a>
-  <a href="mailto:0314kelee@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=0314kelee@gmail.com"/>
+  <a href="https://kaeun.notion.site/60e4acb5509e4cfab55016b8fb2adbc7">
+    <img src="https://img.shields.io/badge/Portfolio-806894?style=flat-square&logo=notion&logoColor=white&link=https://kaeun.notion.site/60e4acb5509e4cfab55016b8fb2adbc7"/>
   </a>
   
   <br/>
@@ -20,9 +20,10 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/>
   <br/>
-  <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=Typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=Typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
   <img src="https://img.shields.io/badge/Next.js-D8DDDF?style=flat-square&logo=Next.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Recoil-3578E5?style=flat-square&logo=recoil&logoColor=white"/>
   <br/>
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/>
