@@ -2,16 +2,8 @@
 
 <div align = "center">
   <h3>🌸 Kaeun Lee 🌸</h3>
-  <a href="https://rlotr.tistory.com">
-    <img src="https://img.shields.io/badge/Tistory-EA5220?style=flat-square&logo=Tistory&logoColor=white&link=https://rlotr.tistory.com"/>
-  </a>
-  <a href="https://www.instagram.com/rlotr.dev">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/rlotr.dev"/>
-  </a>
-  <a href="https://kaeun.notion.site/60e4acb5509e4cfab55016b8fb2adbc7">
-    <img src="https://img.shields.io/badge/Portfolio-806894?style=flat-square&logo=notion&logoColor=white&link=https://kaeun.notion.site/60e4acb5509e4cfab55016b8fb2adbc7"/>
-  </a>
   
+  [![Tistory](https://img.shields.io/badge/Tistory-EA5220?style=flat-square&logo=Tistory&logoColor=white)](https://rlotr.tistory.com) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/rlotr.dev) [![Portfolio](https://img.shields.io/badge/Portfolio-806894?style=flat-square&logo=notion&logoColor=white)](https://kaeun.notion.site/60e4acb5509e4cfab55016b8fb2adbc7)
   <br/>
   <br/>
   
@@ -34,31 +26,14 @@
   <br/>
   
   <h3>💻 Project 💻</h3>
-  <a href="https://pooptest.netlify.app">
-    <img src="https://img.shields.io/badge/똥BTI-b85d2a?style=flat-square&logo=githubsponsors&logoColor=white&link=https://pooptest.netlify.app"/>
-  </a>
-  <a href="https://balabalancegame.netlify.app">
-    <img src="https://img.shields.io/badge/밸러밸런스 게임-1fa664?style=flat-square&logo=githubsponsors&logoColor=white&link=https://balabalancegame.netlify.app"/>
-  </a>
-  <a href="https://today-eat.netlify.app">
-    <img src="https://img.shields.io/badge/오늘 뭐 먹지-d9aa23?style=flat-square&logo=githubsponsors&logoColor=white&link=https://today-eat.netlify.app"/>
-  </a>
-  <br/>
-  <a href="https://baldheadgame.netlify.app">
-    <img src="https://img.shields.io/badge/대머리를 조심해!-d15858?style=flat-square&logo=githubsponsors&logoColor=white&link=https://baldheadgame.netlify.app"/>
-  </a>
-  <a href="https://avoidpoopgame.netlify.app">
-    <img src="https://img.shields.io/badge/똥 피하기 게임-4b88c4?style=flat-square&logo=githubsponsors&logoColor=white&link=https://avoidpoopgame.netlify.app"/>
-  </a>
-   <br/>
-  <a href="https://lets-doogi-test.netlify.app">
-    <img src="https://img.shields.io/badge/두기가되-6978AC?style=flat-square&logo=githubsponsors&logoColor=white&link=https://lets-doogi-test.netlify.app"/>
-  </a>
-  <a href="https://depth-saecomdalcom-test.netlify.app">
-    <img src="https://img.shields.io/badge/뎁콤달콤 테스트-cc4341?style=flat-square&logo=githubsponsors&logoColor=white&link=https://depth-saecomdalcom-test.netlify.app"/>
-  </a>
 
-  <br/>
+ [![똥BTI](https://img.shields.io/badge/똥BTI-b85d2a?style=flat-square&logo=githubsponsors&logoColor=white)](https://pooptest.netlify.app) [![밸러밸런스 게임](https://img.shields.io/badge/밸러밸런스%20게임-1fa664?style=flat-square&logo=githubsponsors&logoColor=white)](https://balabalancegame.netlify.app) [![오늘 뭐 먹지](https://img.shields.io/badge/오늘%20뭐%20먹지-d9aa23?style=flat-square&logo=githubsponsors&logoColor=white)](https://today-eat.netlify.app)
+ <br/>
+[![대머리를 조심해!](https://img.shields.io/badge/대머리를%20조심해!-d15858?style=flat-square&logo=githubsponsors&logoColor=white)](https://baldheadgame.netlify.app) [![똥 피하기 게임](https://img.shields.io/badge/똥%20피하기%20게임-4b88c4?style=flat-square&logo=githubsponsors&logoColor=white)](https://avoidpoopgame.netlify.app)
+ <br/>
+[![두기가되](https://img.shields.io/badge/두기가되-6978AC?style=flat-square&logo=githubsponsors&logoColor=white)](https://lets-doogi-test.netlify.app) [![뎁콤달콤 테스트](https://img.shields.io/badge/뎁콤달콤%20테스트-cc4341?style=flat-square&logo=githubsponsors&logoColor=white)](https://depth-saecomdalcom-test.netlify.app)
+
+
   <br/>
 </div>
 
