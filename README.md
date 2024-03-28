@@ -32,6 +32,7 @@
 [![대머리를 조심해!](https://img.shields.io/badge/대머리를%20조심해!-d15858?style=flat-square&logo=githubsponsors&logoColor=white)](https://baldheadgame.netlify.app) [![똥 피하기 게임](https://img.shields.io/badge/똥%20피하기%20게임-4b88c4?style=flat-square&logo=githubsponsors&logoColor=white)](https://avoidpoopgame.netlify.app)
  <br/>
 [![두기가되](https://img.shields.io/badge/두기가되-6978AC?style=flat-square&logo=githubsponsors&logoColor=white)](https://lets-doogi-test.netlify.app) [![뎁콤달콤 테스트](https://img.shields.io/badge/뎁콤달콤%20테스트-cc4341?style=flat-square&logo=githubsponsors&logoColor=white)](https://depth-saecomdalcom-test.netlify.app)
+[![HORROR TEST | 공포 테스트](https://img.shields.io/badge/HORROR%20TEST-a63333?style=flat-square&logo=githubsponsors&logoColor=white)](https://horror-test.netlify.app)
 
 
   <br/>
