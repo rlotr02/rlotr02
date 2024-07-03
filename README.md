@@ -3,7 +3,7 @@
 <div align = "center">
   <h3>🌸 Kaeun Lee 🌸</h3>
   
-  [![Tistory](https://img.shields.io/badge/Tistory-EA5220?style=flat-square&logo=Tistory&logoColor=white)](https://rlotr.tistory.com) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/rlotr.dev) [![Portfolio](https://img.shields.io/badge/Portfolio-806894?style=flat-square&logo=notion&logoColor=white)](https://rlotr02.notion.site/66de64fbe53f4cabb63d13527512d511)
+  [![Velog](https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white)](https://velog.io/@rlotr02) [![Portfolio](https://img.shields.io/badge/Portfolio-806894?style=flat-square&logo=notion&logoColor=white)](https://rlotr02.notion.site/66de64fbe53f4cabb63d13527512d511) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/rlotr.dev)
   <br/>
   <br/>
   
