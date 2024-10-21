@@ -33,9 +33,10 @@
  <br/>
 [![두기가되](https://img.shields.io/badge/두기가되-6978AC?style=flat-square&logo=githubsponsors&logoColor=white)](https://lets-doogi-test.netlify.app) [![뎁콤달콤 테스트](https://img.shields.io/badge/뎁콤달콤%20테스트-cc4341?style=flat-square&logo=githubsponsors&logoColor=white)](https://depth-saecomdalcom-test.netlify.app)
 [![HORROR TEST | 공포 테스트](https://img.shields.io/badge/HORROR%20TEST-a63333?style=flat-square&logo=githubsponsors&logoColor=white)](https://horror-test.netlify.app)
-
-
   <br/>
+[![두기 메이커](https://img.shields.io/badge/두기%20메이커-66A9B9?style=flat-square&logo=githubsponsors&logoColor=white)](https://doogi-maker.netlify.app) [![내가 범죄 스릴러 영화에 나온다면](https://img.shields.io/badge/내가%20범죄%20스릴러%20영화에%20나온다면-a1885f?style=flat-square&logo=githubsponsors&logoColor=white)](https://crime-role-test.netlify.app)
+  <br/>
+
 </div>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=100&section=footer)
