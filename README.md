@@ -36,6 +36,7 @@
   <br/>
 [![두기 메이커](https://img.shields.io/badge/두기%20메이커-66A9B9?style=flat-square&logo=githubsponsors&logoColor=white)](https://doogi-maker.netlify.app) [![내가 범죄 스릴러 영화에 나온다면](https://img.shields.io/badge/내가%20범죄%20스릴러%20영화에%20나온다면-a1885f?style=flat-square&logo=githubsponsors&logoColor=white)](https://crime-role-test.netlify.app)
   <br/>
+[![LUCKY DOOGI | 럭키두기](https://img.shields.io/badge/LUCKY%20DOOGI%20|%20럭키두기-6e8f76?style=flat-square&logo=githubsponsors&logoColor=white)](https://lucky-doogi.netlify.app)
 
 </div>
 
